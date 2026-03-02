@@ -1,1 +1,2 @@
-# BenHoldcraft542.github.io
+# Repository for my personal project portfolio
+## BenHoldcraft542.github.io
